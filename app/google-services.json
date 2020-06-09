@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "972574560603",
+    "firebase_url": "https://jancteducentre.firebaseio.com",
+    "project_id": "jancteducentre",
+    "storage_bucket": "jancteducentre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972574560603:android:d67764bbe0f5ac821d8a7e",
+        "android_client_info": {
+          "package_name": "student.inti.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972574560603-medcait86bgrirobe0q6ioiu2v6fhn6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "student.inti.myapplication",
+            "certificate_hash": "2e87c3c2e685edf1647ffce2560562258e98bcf1"
+          }
+        },
+        {
+          "client_id": "972574560603-jfh8lrbmvked47k70kg2vm9src30p29l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt3FdTTNHIbtEDG8BZORB743rmEj9bDtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972574560603-jfh8lrbmvked47k70kg2vm9src30p29l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
